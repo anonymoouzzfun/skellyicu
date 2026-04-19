@@ -95,8 +95,8 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click here to see the motion baby";
-  let startTextContent = '';
+  const startMessage = "indians hate me";
+  let startTextContent = 'if youre not a indian go ahead';
   let startIndex = 0;
   let startCursorVisible = true;
 
