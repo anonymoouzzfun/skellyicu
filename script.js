@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const startMessage = "indians hate me";
   let startTextContent = 'if youre not a indian go ahead';
-  let startIndex = 0;
+  let startIndex = 1;
   let startCursorVisible = true;
 
   function typeWriterStart() {
